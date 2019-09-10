@@ -1,5 +1,5 @@
 
-###### Este documento es una traducción del original elaborado por [Stanisław Pitucha @viraptor](https://github.com/viraptor). Se ha añadido además una categoría por puesto de trabajo y para preguntas específicas a cada uno de los paises que tiene el idioma español como lengua oficial. Se agradecen contribuciones tanto en preguntas como corrigiendo errores de traducción.
+###### Este documento es una traducción del [original](https://github.com/viraptor/reverse-interview) elaborado por [Stanisław Pitucha @viraptor](https://github.com/viraptor). Se ha añadido además una categoría por puesto de trabajo y para preguntas específicas a cada uno de los paises que tiene el idioma español como lengua oficial. Se agradecen contribuciones tanto en preguntas como corrigiendo errores de traducción.
 
 
 # Entrevista-inversa
