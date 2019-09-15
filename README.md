@@ -19,8 +19,8 @@ Recordad que los asuntos de una empresa son cambiantes, cambios en la organizaci
 
 El rol
 ======
-- ¿Cuál es la gestión de las guardias y disponibilidad?
-- ¿Cuales son las que tareas haríais en un día normal?
+- ¿Cuál es la gestión de las guardias y la disponibilidad?
+- ¿Cuales son las tareas que haríais en un día normal?
 - ¿Cuál es el balance entre miembros senior y miembros junior en el equipo? (y si hay planes para cambiarlo)
 - ¿Cómo es el proceso de onboarding?
 - ¿Cuál es el balance entre independencia a la hora de llevar a cabo tareas vs hacer tareas de una lista?
