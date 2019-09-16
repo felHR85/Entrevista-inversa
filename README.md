@@ -19,10 +19,10 @@ Recordad que los asuntos de una empresa son cambiantes, cambios en la organizaci
 
 El rol
 ======
-- ¿Cuál es la gestión de guardias y disponibilidad?
-- ¿Cuales son las tareas haríais en un día normal?
+- ¿Cuál es la gestión de las guardias y la disponibilidad?
+- ¿Cuales son las tareas que haríais en un día normal?
 - ¿Cuál es el balance entre miembros senior y miembros junior en el equipo? (y si hay planes para cambiarlo)
-- ¿Como es el proceso de onboarding?
+- ¿Cómo es el proceso de onboarding?
 - ¿Cuál es el balance entre independencia a la hora de llevar a cabo tareas vs hacer tareas de una lista?
 - ¿Cuantas horas son las esperadas que trabaje?
 - ¿Cuál es la definición de éxito para este puesto?
@@ -38,7 +38,7 @@ Tech
 - ¿Cuál es el flujo de trabajo desde la planificación hasta la tarea finalizada?
 - ¿Cómo os preparáis para recuperaros en caso de desastre?
 - ¿Hay un entorno estándar de desarrollo? ¿Es obligatorio su uso?
-- ¿Cómo de rápido podeis responder ante problemas de seguridad en el código o en las dependencias?
+- ¿Cómo de rápido podéis responder ante problemas de seguridad en el código o en las dependencias?
 - ¿Les está permitidos a todos los desarrolladores tener acceso de administrador local en sus máquinas?
 
 El equipo
@@ -64,7 +64,7 @@ La compañia
 - ¿En qué estado de madurez se encuentra la compañía?
 - ¿Puedo contribuir a proyectos open-source? ¿Se necesita aprobación para ello?
 - ¿Hay acuerdos de no competencia o de no revelación de secretos que deberé firmar?
-- ¿Cuales pensais que son las cosas que hay que mejorar en la cultura de la empresa?
+- ¿Cuales pensáis que son las cosas que hay que mejorar en la cultura de la empresa?
 - ¿Podrías decirme alguna historia de alguna situación tóxica y como la compañía la gestionó?
 
 El negocio
