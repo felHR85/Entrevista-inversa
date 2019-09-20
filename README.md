@@ -161,7 +161,10 @@ Preguntas específicas por país
 ## Uruguay
 - Por rellenar
 ## Venezuela
-- Por rellenar
+- ¿Es mi salario base en dolares o en bolívares?
+- ¿El pago salarial es en dolares/euros/pesos si es así, es realizado en efectivo/giftcard/transferencia o bonificación en bolívares al cambio de la divisa agregado a mi sueldo base?
+- ¿En caso de problemas de transporte se puede realizar el trabajo de manera remota?
+- ¿Hay algún tipo de protocolo en caso de una falla eléctrica?
 
 Otros recursos
 ======
