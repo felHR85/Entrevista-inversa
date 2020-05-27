@@ -165,6 +165,7 @@ Preguntas específicas por país
 - ¿El pago salarial es en dolares/euros/pesos si es así, es realizado en efectivo/giftcard/transferencia o bonificación en bolívares al cambio de la divisa agregado a mi sueldo base?
 - ¿En caso de problemas de transporte se puede realizar el trabajo de manera remota?
 - ¿Hay algún tipo de protocolo en caso de una falla eléctrica?
+- ¿La compañia cuenta con políticas de reubicación?
 
 Otros recursos
 ======
