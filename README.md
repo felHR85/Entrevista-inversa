@@ -66,6 +66,7 @@ La compañia
 - ¿Hay acuerdos de no competencia o de no revelación de secretos que deberé firmar?
 - ¿Cuales pensáis que son las cosas que hay que mejorar en la cultura de la empresa?
 - ¿Podrías decirme alguna historia de alguna situación tóxica y como la compañía la gestionó?
+- ¿Existe algun espacio donde le den feedback a sus colaboradores sobre su desempeño?
 
 El negocio
 ======
@@ -116,7 +117,10 @@ Preguntas específicas por puesto de trabajo
 ## Devops/sistemas
 - Por rellenar
 ## Desarrollador frontend
-- Por rellenar
+- ¿Realizan pruebas cross-browser de las aplicaciones y que usan para ello?
+- ¿La compañia tiene estandares y lineamientos de trabajo Ej: Scafolding de los proyectos, nomenclaturas de clases?
+
+
 ## QA
 - Por rellenar
 
