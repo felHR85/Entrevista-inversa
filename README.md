@@ -122,7 +122,13 @@ Preguntas específicas por puesto de trabajo
 
 
 ## QA
-- Por rellenar
+- ¿Cómo estár organizado el equipo de QA? Manager / Lead / Analistas
+- ¿A quién reporta el lider o manager de QA? ¿Depende del Arquitect / Tech Lead o es independiente?
+- ¿Se encuentra QA integrado al ciclo de desarrollo desde la planificación o solamente al final para "encontrar errores" post-hoc?
+- ¿Están automatizando? ¿Cómo? ¿Quién automatiza? ¿Cuando? ¿Tienen pensado automatizar?
+- ¿Que se espera de un QA Manager/Lead/Analista?
+- ¿Es un proyecto de mantenimiento?
+- ¿Cuál es el mayor obstáculo que están teniendo o creen tener en cuanto a Calidad de Software?
 
 Preguntas específicas por país
 ======
