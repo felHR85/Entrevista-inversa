@@ -110,8 +110,16 @@ Preguntas específicas por puesto de trabajo
 
 ## Desarrollador backend
 - Por rellenar
+- 
 ## Desarrollador móvil
-- Por rellenar
+- ¿Cuántos desarrolladores móviles componen el equipo? ¿Qué experiencia tienen? ¿Para qué plataformas? 
+- ¿Utilizan CI/CD? ¿Cual de ellos?
+- ¿Cómo realizan un seguimiento de los bugs? ¿Utilizan alguna herramienta en particular?
+- ¿Utilizan SONAR o alguna herramienta para controlar la salud del código?
+- ¿Cómo manejan la deuda técnica?- En el caso de Android, ¿utilizan Java o Kotlin? 
+- ¿Qué arquitectura emplean MVVM, MVP, MVI?
+- ¿Siguen principios CLEAN?
+
 ## Data scientist
 - Por rellenar
 ## Devops/sistemas
